@@ -1,0 +1,9 @@
+This folder will contain future examples... once I figure out how imports work in Python LOL!
+(
+    I usually code in Rust, but I'm using Python more often to:
+
+    A - "Draft" pieces of more complex applications to get a concept down, and then refactoring & polishing in Rust.
+        (This entire repository will likely be refactored in Rust)
+    
+    B - Become more proficient in Python. Python is widely used in industry tech-stacks, so I think it's a good idea to learn Python thoroughly.
+)
